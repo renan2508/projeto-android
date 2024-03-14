@@ -21,7 +21,6 @@
     --font_destaque: "Bebas Neue", sans-serif;
     --fonte_android: "Android", Arial, sans-serif;
 }
-
 body{
     background-color: var(--cor00);
     font-family: var(--font_padrao);
