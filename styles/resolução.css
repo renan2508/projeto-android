@@ -8,8 +8,8 @@
     margin: 0px;
     padding: 0px;
 }
-.centro{
-    margin: auto;
+picture > img{
+    width: 100%;
 }
 :root{
     --cor00: #ebe5c5;
